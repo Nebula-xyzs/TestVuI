@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet(''))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Nebula-xyzs/TestVuI/refs/heads/main/Source.lua%20(1).txt'))()
 
 local Window = Library:CreateWindow("Name", "Version", 10044538000)
 
